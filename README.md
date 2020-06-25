@@ -3,7 +3,7 @@ index
 
 ## Project Directory Structure
 
-See Project Directory Structure
+See [Project Directory Structure Templates](https://github.com/creationsprojects/project-directory-structure-templates)
 
 ## Unique Project Identifier
 
