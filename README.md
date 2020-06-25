@@ -1,6 +1,10 @@
 index
 # Index
 
+## Project Directory Structure
+
+See Project Directory Structure
+
 ## Unique Project Identifier
 
 | UID        | Project Name | Year |
