@@ -1,7 +1,10 @@
 index
 # Creations Projects: Index
 
+| A| B|
+|---|---|
 | ![Creations Organization](https://raw.githubusercontent.com/creationsprojects/index/master/Creations_Organization.PNG) | Other |
+
 
 ## Project Directory Structure
 
