@@ -3,7 +3,7 @@ index
 
 | Creations Organization| |
 |---|---|
-| ![Creations Organization](https://raw.githubusercontent.com/creationsprojects/index/master/Creations_Organization.PNG) | - [Creations Designs](https://github.com/creationsdesigns/) - Other |
+| ![Creations Organization](https://raw.githubusercontent.com/creationsprojects/index/master/Creations_Organization.PNG) | [Creations Designs](https://github.com/creationsdesigns/) Other |
 
 
 ## Project Directory Structure
